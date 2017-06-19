@@ -8,6 +8,6 @@ So first of all i need to place those items on exact point i wrote this function
 
 It basicly returns an object array. It starts on top of that wheel.
 
-After a couple of tweeks you can create something like this:
+After a couple of tweeks you can create something like this: (star's and job pictures pointed with function).
 
 ![alt text](https://github.com/halilcakarr/getCirclePoints/blob/master/wheel.png)
